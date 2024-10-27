@@ -3,7 +3,8 @@ meme_dict = {
             "LOL": "Tanggapan umum terhadap sesuatu yang lucu",
             "CREEPY": "menakutkan, tidak menyenangkan",
             "WEIRDO": "ejekan",
-            "GOOFY": "Bodoh"
+            "GOOFY": "Bodoh",
+            "GETGOOD": "Mengatakan bahwa seseorang harus lebih baik daripada yang sekarang"
             }
 
 word = input("Ketik kata yang tidak Kamu mengerti (gunakan huruf kapital semua!): ")
